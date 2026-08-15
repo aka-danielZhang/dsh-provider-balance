@@ -1,0 +1,24 @@
+.gitignore
+  h_04d4cd0008e41d 1-9
+README.md
+  h_04d4cd0008e41d 1-169
+client/client.js
+  h_04d4cd0008e41d 1-488
+cordis.yml
+  h_04d4cd0008e41d 1-36
+package.json
+  h_04d4cd0008e41d 1-22
+src/index.ts
+  h_04d4cd0008e41d 1-637
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "c9aa41dcd26c88169597b39230ccbd2f4bb69fa0",
+  "prompts": {},
+  "humans": {
+    "h_04d4cd0008e41d": {
+      "author": "aka-danielZhang <424011753@qq.com>"
+    }
+  }
+}
