@@ -1,0 +1,14 @@
+src/index.ts
+  h_04d4cd0008e41d 117-121,127,290,622-623
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "cb8211a52adabcf42160839ca29d576a8f67f2f3",
+  "prompts": {},
+  "humans": {
+    "h_04d4cd0008e41d": {
+      "author": "aka-danielZhang <424011753@qq.com>"
+    }
+  }
+}
