@@ -1,0 +1,18 @@
+README.md
+  h_04d4cd0008e41d 4,9,11,66-82,136-138
+client/client.js
+  h_04d4cd0008e41d 95,103-105,174,253-288,425,427-428,430-435,450-454,460-462,468
+src/index.ts
+  h_04d4cd0008e41d 81-110,346-391,397,409,456
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "52c6768074e66568d53209ee5d7215102caf121f",
+  "prompts": {},
+  "humans": {
+    "h_04d4cd0008e41d": {
+      "author": "aka-danielZhang <424011753@qq.com>"
+    }
+  }
+}
