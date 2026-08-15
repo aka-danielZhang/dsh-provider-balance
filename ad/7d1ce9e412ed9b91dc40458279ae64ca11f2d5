@@ -1,0 +1,16 @@
+client/client.js
+  h_04d4cd0008e41d 260
+src/index.ts
+  h_04d4cd0008e41d 93-94,371-398,576,594-596,622,625,628,631,633,637-638,640,643,677,679-689,693,703-772,783-791
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "ad7d1ce9e412ed9b91dc40458279ae64ca11f2d5",
+  "prompts": {},
+  "humans": {
+    "h_04d4cd0008e41d": {
+      "author": "aka-danielZhang <424011753@qq.com>"
+    }
+  }
+}
