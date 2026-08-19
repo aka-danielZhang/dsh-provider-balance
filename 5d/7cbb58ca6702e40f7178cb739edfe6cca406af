@@ -1,0 +1,18 @@
+README.md
+  h_04d4cd0008e41d 6-8,242-247
+client/client.js
+  h_04d4cd0008e41d 27-35,52,609-699,736-760
+package.json
+  h_04d4cd0008e41d 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "5d7cbb58ca6702e40f7178cb739edfe6cca406af",
+  "prompts": {},
+  "humans": {
+    "h_04d4cd0008e41d": {
+      "author": "aka-danielZhang <424011753@qq.com>"
+    }
+  }
+}
